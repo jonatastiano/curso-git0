@@ -9,8 +9,8 @@ namespace TesteProjeto {
         static void Main(string[] args) {
 
             Console.WriteLine("Ola mundo");
-            Console.WriteLine("Bom dia!");
             Console.WriteLine("Como voce esta hoje?");
+            Console.WriteLine("Tenha um bom dia! Voce e sua familia");
             
         }
     }
